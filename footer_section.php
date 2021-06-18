@@ -78,11 +78,9 @@
 						<a href="menu_online.php">Menu</a>
 					</li>
 					<li>
-						<a href="">Order Online</a>
+						<a href="menu_online.php">Order Online</a>
 					</li>
-					<li>
-						<a href="">Feedback</a>
-					</li>
+					
 					<li>
 						<a href="book_table_section.php">Table Reservation</a>
 					</li>
@@ -106,32 +104,32 @@
 				
 				<ul class="ourMenuImgFoot">
 					<li>
-						<a href="">
+						<a href="menu_online.php">
 							<img src="images/menuimg/biryani_and_rice.jpg">
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="menu_online.php">
 							<img src="images/menuimg/traditional_fav_menu.jpg">
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="menu_online.php">
 							<img src="images/menuimg/starter_menu.jpg">
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="menu_online.php">
 							<img src="images/menuimg/main_course_menu.jpg">
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="menu_online.php">
 							<img src="images/menuimg/house_sp_menu.jpg">
 						</a>
 					</li>
 					<li>
-						<a href="">
+						<a href="menu_online.php">
 							<img src="images/menuimg/breadmenu.jpg">
 						</a>
 					</li>
@@ -168,8 +166,8 @@ color:#fff; float:left; margin:0px;
 			</div>
 			<div class="col-lg-6">
 				<ul class="social-list cpCls1">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>                                
+                                <li><a href="https://www.facebook.com/yasminrestauranteasthorsley/"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.facebook.com/yasminrestauranteasthorsley/"><i class="fab fa-twitter"></i></a></li>                                
                                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                             </ul>
 							

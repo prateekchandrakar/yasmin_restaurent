@@ -104,7 +104,7 @@ KT24 6RT</p>
 			<div class="conSecDes" style="margin-bottom:0px;">
                     <div class="contact-title">
                         <h3>Get in Touch With Us</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis lorem augue, at quam finibus eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis lorem augue</p>
+                        
                     </div>
                     <br>
                     <form id="contact-form" method="post" action="#" novalidate="true">

@@ -77,7 +77,7 @@
 }
 
 .mdSec{
-	float:left; width:75%;
+	float:left; 
 }
 .mainmSec{
 	//background: #F1F3F4;
@@ -131,7 +131,7 @@ margin-top: 15px;
 .cnShopSec ul li a{
 	color: #fff;
     font-weight: 600;
-    font-size: 18px;
+    
 }
 
 

@@ -123,7 +123,7 @@
 }
 
 .ProfileSection img{
-	width:180px; border-radius:50%; box-shadow: 0 10px 15px 0 rgb(3 35 68 / 10%);
+	border-radius:50%; box-shadow: 0 10px 15px 0 rgb(3 35 68 / 10%);
 }
 
 .ProfileSection h4{
@@ -149,8 +149,9 @@
 </style>
 <div class="mSideBar">
 				<div class="ProfileSection">
-					<img src="images/defaut img.jpg">
-					<h4>Prateek Chandrakar</h4>
+					<div class="pImGsec"><img src="images/defaut img.jpg"></div>
+					<div class="pNameSec"><h4>Prateek Chandrakar</h4></div>
+					<div style="clear:both;"></div>
 				</div>
 				
 				

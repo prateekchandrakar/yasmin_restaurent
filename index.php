@@ -40,7 +40,7 @@
                         <h5 class="subtitle">Affordable prices to anyone</h5>
                         <h2 class="title">Choose and taste  <br>to your place</h2>
                         <div class="slider-btn">
-                            <a href="#" class="btn-default">Reserve now</a>
+                            <a href="book_a_table.php" class="btn-default">Reserve now</a>
                            
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                         <h5 class="subtitle">Expect the best</h5>
                         <h2 class="title">Where the flavor  <br/> inebriates you</h2>
                         <div class="slider-btn">
-                            <a href="#" class="btn-default">Reserve now</a>
+                            <a href="book_a_table.php" class="btn-default">Reserve now</a>
                             
                         </div>
                     </div>
@@ -60,9 +60,9 @@
                    <div class="overlay"></div>
                     <div class="container slider-caption">
                         <h5 class="subtitle">Renew your look</h5>
-                        <h2 class="title">The artisans <br>of the pizza</h2>
+                        <h2 class="title">The artisans <br>of the indian cuisine</h2>
                         <div class="slider-btn">
-                            <a href="#" class="btn-default">Reserve now</a>
+                            <a href="book_a_table.php" class="btn-default">Reserve now</a>
                             
                         </div>
                     </div>
@@ -257,7 +257,7 @@ width:100%;
         <div class="container">
             <div class="center-title"><br>
                 <h2 style="color:#fff;">Our Menu</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis lorem augue, at quam finibus eget</p>
+                <p>Choose & Taste</p>
             </div>
             <div class="row">
 
@@ -414,10 +414,10 @@ margin-bottom: 25px;
 	<div class="mad-col">
 	  <div class="mad-menu-card">
 		<div class="mad-menu-border"></div>
-		<a href="#" class="mad-card-img with-overlay"><img src="images/menuimg/wine_and_drink.jpg" alt=""></a>
+		<a href="menu_online.php" class="mad-card-img with-overlay"><img src="images/menuimg/wine_and_drink.jpg" alt=""></a>
 		<div class="mad-card-text">
 		  <h4>Drinks Menu</h4>
-		  <a href="#" class="mad-read-more">View Menu </a>
+		  <a href="menu_online.php" class="mad-read-more">View Menu </a>
 		</div>
 	  </div>
 	</div>
@@ -429,10 +429,10 @@ margin-bottom: 25px;
 	<div class="mad-col">
 	  <div class="mad-menu-card">
 		<div class="mad-menu-border"></div>
-		<a href="#" class="mad-card-img with-overlay"><img src="images/menuimg/starter_menu.jpg" alt=""></a>
+		<a href="menu_online.php" class="mad-card-img with-overlay"><img src="images/menuimg/starter_menu.jpg" alt=""></a>
 		<div class="mad-card-text">
 		  <h4>Starters</h4>
-		  <a href="#" class="mad-read-more">View Menu </a>
+		  <a href="menu_online.php" class="mad-read-more">View Menu </a>
 		</div>
 	  </div>
 	</div>
@@ -443,10 +443,10 @@ margin-bottom: 25px;
 	<div class="mad-col">
 	  <div class="mad-menu-card">
 		<div class="mad-menu-border"></div>
-		<a href="#" class="mad-card-img with-overlay"><img src="images/menuimg/main_course_menu.jpg" alt=""></a>
+		<a href="menu_online.php" class="mad-card-img with-overlay"><img src="images/menuimg/main_course_menu.jpg" alt=""></a>
 		<div class="mad-card-text">
 		  <h4>Main Courses</h4>
-		  <a href="#" class="mad-read-more">View Menu </a>
+		  <a href="menu_online.php" class="mad-read-more">View Menu </a>
 		</div>
 	  </div>
 	</div>
@@ -457,10 +457,10 @@ margin-bottom: 25px;
 	<div class="mad-col">
 	  <div class="mad-menu-card">
 		<div class="mad-menu-border"></div>
-		<a href="#" class="mad-card-img with-overlay"><img src="images/menuimg/vegetarin_menu.jpg" alt=""></a>
+		<a href="menu_online.php" class="mad-card-img with-overlay"><img src="images/menuimg/vegetarin_menu.jpg" alt=""></a>
 		<div class="mad-card-text">
 		  <h4>Vegetarian</h4>
-		  <a href="#" class="mad-read-more">View Menu </a>
+		  <a href="menu_online.php" class="mad-read-more">View Menu </a>
 		</div>
 	  </div>
 	</div>
@@ -471,10 +471,10 @@ margin-bottom: 25px;
 	<div class="mad-col">
 	  <div class="mad-menu-card">
 		<div class="mad-menu-border"></div>
-		<a href="#" class="mad-card-img with-overlay"><img src="images/menuimg/house_sp_menu.jpg" alt=""></a>
+		<a href="menu_online.php" class="mad-card-img with-overlay"><img src="images/menuimg/house_sp_menu.jpg" alt=""></a>
 		<div class="mad-card-text">
 		  <h4>House Specials</h4>
-		  <a href="#" class="mad-read-more">View Menu </a>
+		  <a href="menu_online.php" class="mad-read-more">View Menu </a>
 		</div>
 	  </div>
 	</div>
@@ -484,10 +484,10 @@ margin-bottom: 25px;
 	<div class="mad-col">
 	  <div class="mad-menu-card">
 		<div class="mad-menu-border"></div>
-		<a href="#" class="mad-card-img with-overlay"><img src="images/menuimg/biryani_and_rice.jpg" alt=""></a>
+		<a href="menu_online.php" class="mad-card-img with-overlay"><img src="images/menuimg/biryani_and_rice.jpg" alt=""></a>
 		<div class="mad-card-text">
 		  <h4>Biryani's & Rice</h4>
-		  <a href="#" class="mad-read-more">View Menu </a>
+		  <a href="menu_online.php" class="mad-read-more">View Menu </a>
 		</div>
 	  </div>
 	</div>
@@ -503,7 +503,7 @@ margin-bottom: 25px;
 			
        <div class="col-lg-12" align="center"><br>
 		<div class="viewMoreBtn">
-			<a href="">View More >></a>
+			<a href="menu_online.php">View More >></a>
 		</div><br><br>
 	   </div>	   
   

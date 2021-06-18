@@ -7,11 +7,11 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="home-about">
-                        <h5 class="subtitle">About Company Name</h5>
-                        <h2>The Secret is at the Table and The Natural Light Food</h2>
-                        <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis lorem augue, at quam finibus eget.</strong> </p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis lorem augue, at quam finibus eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis lorem augue, at quam finibus eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis lorem augue, at quam finibus eget. </p>
-                        <b><a href="" class="rmore">Read More</a></b>
+                        <h5 class="subtitle">About Yasmin Restaurent</h5>
+                        <h2>An Authentic Indian Cuisine Adventure</h2>
+                        
+                        <p>If you are craving the bold flavors of authentic Indian food, come to <strong>Yasmin Restaurant !</strong> Our talented, experienced chefs create authentic Indian dishes using fresh ingredients and traditional Indian recipes.  </p><p>Exotic sauces and flavors intermingle on your plate, and the hot, tangy aromas waft up to meet your nose, creating an exciting taste journey you can experience only in our restaurant. </p>
+                        <b><a href="about_us.php" class="rmore">Read More</a></b>
                     </div>
                 </div>
                 <div class="col-lg-6 spacing-md">

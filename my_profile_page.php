@@ -104,10 +104,10 @@
 }
 
 .profileActive{
-	border-right: 3px solid rgb(237, 90, 107);
+	border-right: 3px solid rgb(237, 90, 107) !important;
     background: linear-gradient(
 90deg
-, rgb(255, 255, 255), rgb(247, 235, 236));
+, rgb(255, 255, 255), rgb(247, 235, 236)) !important;
 }
 
 

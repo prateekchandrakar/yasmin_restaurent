@@ -39,15 +39,15 @@
 
 <style>
 .menuActive{
-	border-right: 3px solid rgb(237, 90, 107);
+	border-right: 3px solid rgb(237, 90, 107) !important;
     background: linear-gradient(
 90deg
-, rgb(255, 255, 255), rgb(247, 235, 236));
+, rgb(255, 255, 255), rgb(247, 235, 236)) !important;
 }
 
 
 .mSideBar{
-	
+	margin-bottom:40px;
 }
 
 .mSideBar ul{
@@ -106,14 +106,14 @@
     border-radius: 4px; margin-left: 3px;
 }
 .mCartAdd{
-		float:right;					 width:22%;
+		float:right;
 }
 
 .lastCart{
 	float:right;
 }
 .mdSec{
-	float:left; width:75%;
+	float:left; 
 }
 .mainmSec{
 	//background: #F1F3F4;
@@ -724,18 +724,28 @@
     padding-right: 25px;
     border-radius: 50px;
 }
+
+.conViCr{
+	float:right;
+}
+
+.sbCls{
+	float:right; margin-right:20px;
+}
 </style>
 <section class="fixedCartSec">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">				
+			<div class="col-lg-6 col-xs-12">				
 				<h5>Total No Of Item (10)</h5>
 			</div>
-			<div class="col-lg-6">				
-				<h5>Subtotal : £1000</h5>
-				<a href="checkout_page.php" class="vCCbtn">Continue</a>
-				<a href="view_cart_page.php" class="vCbtn">View Cart</a>
+			<div class="col-lg-6 col-xs-12">				
 				
+				<div class="conViCr"><a href="checkout_page.php" class="vCCbtn">Continue</a>
+				<a href="view_cart_page.php" class="vCbtn">View Cart</a>
+				</div>
+				<div class="sbCls"><h5>Subtotal : £1000</h5></div>
+				<div style="clear:both;"></div>
 			</div>
 		</div>
 	</div>

@@ -69,10 +69,10 @@
 
 
 .ordrHisActive{
-	border-right: 3px solid rgb(237, 90, 107);
+border-right: 3px solid rgb(237, 90, 107) !important;
     background: linear-gradient(
 90deg
-, rgb(255, 255, 255), rgb(247, 235, 236));
+, rgb(255, 255, 255), rgb(247, 235, 236)) !important;
 }
 
 
@@ -88,7 +88,7 @@
 				<div class="outerMenuSec">
 					<h3>My Order</h3> <!--heading--->
 					<hr>
-			
+			<div class="table-responsive">
 <table class="table table-bordered">
 	<thead style="background:#333; color:#fff; font-weight:bold;">
 		<tr>
@@ -121,7 +121,7 @@
 	</tbody>
 </table>		
 					
-					
+			</div>			
 					
 				</div>
 				
